@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Jackieto or Esteban
-- 👀 I’m interested in music, programming, math, books, movies, videogames
-- 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on anything!
+
 - 📫 How to reach me
       Discord: Jackieto#1791
 
