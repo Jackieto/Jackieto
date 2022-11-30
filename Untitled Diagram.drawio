@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T18:35:07.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="kKSSNE47fuIN7xB9kgoK" type="github"><diagram id="XE5rZcf3zk13coEEMdvY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-30T18:41:51.529Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="4iGI6-HB0kN_pDAQwPFh" type="github">
+  <diagram id="jD21SRNAF7y0qAgWIuYm" name="Page-1">
+    <mxGraphModel dx="1362" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yfO3HWTPzGOLnLA_5dYO-1" value="&lt;b&gt;Feel bad and depressed because I&#39;m frustated with myself&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yfO3HWTPzGOLnLA_5dYO-4" value="&#xa;&lt;b style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Can&#39;t focus or do well in anything (studies, socialise, exercise...)&lt;br&gt;because I feel bad all the time&lt;/b&gt;&#xa;&#xa;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="yfO3HWTPzGOLnLA_5dYO-5" value="&lt;b&gt;Get stressed and frustated because I end up doing dogshit all day long&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="215" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yfO3HWTPzGOLnLA_5dYO-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;fillColor=#FFFFFF;gradientColor=none;" edge="1" parent="1" source="yfO3HWTPzGOLnLA_5dYO-1" target="yfO3HWTPzGOLnLA_5dYO-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfO3HWTPzGOLnLA_5dYO-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="yfO3HWTPzGOLnLA_5dYO-4" target="yfO3HWTPzGOLnLA_5dYO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="280" as="sourcePoint" />
+            <mxPoint x="270" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfO3HWTPzGOLnLA_5dYO-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yfO3HWTPzGOLnLA_5dYO-5" target="yfO3HWTPzGOLnLA_5dYO-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="280" as="sourcePoint" />
+            <mxPoint x="270" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yfO3HWTPzGOLnLA_5dYO-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=#000000;fillColor=none;gradientColor=none;" edge="1" parent="1" source="yfO3HWTPzGOLnLA_5dYO-4" target="yfO3HWTPzGOLnLA_5dYO-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="230" as="sourcePoint" />
+            <mxPoint x="270" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
